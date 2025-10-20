@@ -57,4 +57,6 @@ To earn your exclusive Hacktoberfest tee or tree reward, follow these simple ste
   <img src="https://contrib.rocks/image?repo=Tommy-gta/Intial_Opensource_contribution&max=500" />
 </a>
 
-
+<a href="https://github.com/Outlander101/Intial_Opensource_contribution/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Outlander101/Intial_Opensource_contribution&max=500" />
+</a>
