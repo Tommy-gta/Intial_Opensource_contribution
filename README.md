@@ -1,7 +1,7 @@
-# Intial_Opensource_contribution
+# Intial Opensource contribution
 An open source sandbox environment where developers could contribute and get familiar with open source
 
-<h1 align="center">  Hacktoberfest-2025 - open-source-contribution Repo </h1>
+<h1 align="center">  Hacktoberfest-2025 - Open Cource Contribution Repo </h1>
 
   <a href="#">
         <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
@@ -25,28 +25,27 @@ Hacktoberfest is the world’s largest month-long celebration of open source, he
 - Open to all: Whether you’re a developer, student, event organizer, or company, everyone is welcome to participate and contribute.
 - All backgrounds and skill levels are encouraged to complete the challenge.
 - Hacktoberfest is a celebration open to everyone in our global community.
-- You can sign up **anytime between October 1 and October 31**.
+- You can sign up anytime between October 1 and October 31.
 
 ---
 
 ## HacktoberFest Rules :
 To earn your exclusive Hacktoberfest tee or tree reward, follow these simple steps:
-- Register on the official Hacktoberfest website.
-- Make five valid pull requests (PRs) to any participating GitHub or GitLab repository between October 1-31.
-- Ensure your PRs are approved by a repository maintainer.
+- Register on the official Hacktoberfest website between 1st October to 31st October 2025.
+- Make six valid pull requests (PRs) to any participating GitHub or GitLab repository between October 1-31.
+- Ensure the PRs are approved by a repository maintainer.
 - If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
 
 ---
 
 ## Steps For Contribution
 
-    1. Fork this repo
-    2. Star this repo
-    3. Add a file (any useful program) inside its respective language
-    (if folder is not available for your language then create it by yourself)
-    4. commit the code
-    5. Make pull request
-    6. Patience, once reviwed PR will be merged
+    1. Fork the repo
+    2. Add the changes, create or update file (any useful program) inside the respective language
+    (In case the language is not present in repo, do create the folder and make the changes)
+    3. commit the changes
+    4. Make pull request
+    5. Patience, once reviwed PR will be merged. Happy Coding.
     
 
 ---
